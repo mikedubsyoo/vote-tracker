@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Alegreya', serif;
+  text-align: center;
+  font-size: 50px;
+  border: 2px solid #FCFAE1;
+}
+button {
+  width: 20%;
+  float: center;
+  margin-right: 40%;
+  margin-left: 40%;
+  border: 2px solid #FCFAE1;
+}
+body {
+  background-color: #F6E497;
+}
+#leftpic {
+  width: 40%;
+  float: left;
+  border: thick solid blue;
+}
+#rightpic {
+  width: 40%;
+  float: right;
+  border: thick solid green;
+}
